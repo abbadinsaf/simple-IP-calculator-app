@@ -67,10 +67,4 @@ python main.py
 
 **VLSM** sorts your host requirements from largest to smallest, then calculates a mask sized specifically for each subnet's needs — allocating addresses sequentially so no space is wasted between subnets.
 
-## Roadmap
 
-- [ ] IPv6 support
-- [ ] Save/load past calculations (calculation history)
-- [ ] Network topology visualization
-- [ ] Export to router configuration syntax (e.g. Cisco IOS)
-- [ ] Dark/light theme toggle
